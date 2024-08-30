@@ -1,0 +1,13 @@
+# api
+env/
+__pycache__/
+
+# discord_bot
+node_modules
+.env
+config.json
+
+# train
+dataset/
+.config.env
+.env/
